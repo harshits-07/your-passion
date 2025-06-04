@@ -11,6 +11,7 @@ class CustomButtons {
       style: ElevatedButton.styleFrom(
         backgroundColor: AppColors.primaryColor,
         foregroundColor: AppColors.backgroundColor,
+
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(12.0),
         ),

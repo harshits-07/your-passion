@@ -36,7 +36,7 @@ class _SplashScreenState extends State<SplashScreen> {
               color: AppColors.primaryColor,
             ),
             Text(
-              "FOLLOW YOUR PASSION",
+              "Get Your Dream Desk to Grow",
               style: TextStyle(
                 fontSize: 24,
                 color: AppColors.primaryColor,

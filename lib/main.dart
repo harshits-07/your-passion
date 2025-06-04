@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       routerConfig: AppRouter.router,
       debugShowCheckedModeBanner: false,
-
       theme: ThemeData(
         fontFamily: 'Manrope',
         appBarTheme: AppBarTheme(
